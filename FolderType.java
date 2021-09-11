@@ -1,0 +1,4 @@
+enum FolderType
+{
+    TENSLIDES,TWENTYSLIDES,FIFTYSLIDES
+}
